@@ -1,6 +1,6 @@
 # Weather App
 
-# Access the live demo using `https://lustrous-melomakarona-a2d63b.netlify.app`
+# Access the live demo using https://lustrous-melomakarona-a2d63b.netlify.app
 
 # Tools Used - React.js, Redux-Toolkit, Material UI
 
