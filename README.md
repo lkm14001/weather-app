@@ -1,3 +1,19 @@
+# Weather App
+
+# Tools Used - React.js, Redux-Toolkit, Material UI
+
+API used - https://weatherapi-com.p.rapidapi.com/forecast.json --> used for getting data of weather forecast
+            https://weatherapi-com.p.rapidapi.com/search.json --> used for getting data of the location searched
+
+1. Created redux Slice for weather with reducer functions for changing the state of the application
+2. fetched the data and retrieved the state Using useAppDispatch and useAppSelector hooks in the components.
+
+# Material UI - www.mui.com
+
+# Clone this repository using git clone <rep url>
+# run `npm i` command after changing the directory into the cloned folder.
+# And then run command `npm start` to start the application.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) TS template.
