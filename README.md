@@ -1,5 +1,7 @@
 # Weather App
 
+# Access the live demo using `https://lustrous-melomakarona-a2d63b.netlify.app`
+
 # Tools Used - React.js, Redux-Toolkit, Material UI
 
 API used - https://weatherapi-com.p.rapidapi.com/forecast.json --> used for getting data of weather forecast
